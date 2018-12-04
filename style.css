@@ -19,6 +19,7 @@ h1 {
 .container {
   color: grey;
   margin auto;
+  margin-top:250px;
   width: 50%;
   display: inline;
   text-align: center;
